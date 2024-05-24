@@ -8,9 +8,11 @@ td{
     height: 50px;
 }
 
+wd
 tr:nth-child(even) > td:nth-child(even){
     background-color: brown;
 }
 tr:nth-child(odd) > td:nth-child(odd){
     background-color: brown;
+
 }

@@ -8,6 +8,8 @@ td{
     height: 50px;
 }
 
+
+
 tr:nth-child(even) > td:nth-child(even){
     background-color: brown;
 }

@@ -8,9 +8,17 @@ td{
     height: 50px;
 }
 
+<<<<<<< HEAD
 tr:nth-child(2n+1) > td:nth-child(2n+1){
     background-color: gray;
 }
 tr:nth-child(2n) > td:nth-child(2n){
     background-color: gray;
+=======
+tr:nth-child(even) > td:nth-child(even){
+    background-color: brown;
+}
+tr:nth-child(odd) > td:nth-child(odd){
+    background-color: brown;
+>>>>>>> 2638ac7159e56071d92e380b238330f3453b49df
 }
